@@ -1,0 +1,2 @@
+Relay: TQ2SA-L2-12v via aliexpress
+Bridge Rectifier: MB16S-TP  mouser:833-MB16S-TP
